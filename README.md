@@ -1,3 +1,3 @@
 # CP
 
-### CSF111 - Computer Programming
+### CS F111 COMPUTER PROGRAMMING
